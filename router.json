@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/": "/index.html",
+    "/about": "/about.html"
+  },
+  "css": {
+    "/style.css": "/style.css",
+  },
+  "js": {
+    "/script.js": "/script.js"
+  }
+}
