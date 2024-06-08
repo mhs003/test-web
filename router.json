@@ -1,7 +1,4 @@
 {
-  "routes": {
-    "/about": "/about.html"
-  },
   "css": {
     "/style.css": "/style.css"
   },
