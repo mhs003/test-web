@@ -1,7 +1,8 @@
 {
   "routes": {
     "/": "/index.html",
-    "/about": "/about.html"
+    "/about": "/about.html",
+    "/routes": "/router.json"
   },
   "css": {
     "/style.css": "/style.css"
