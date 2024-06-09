@@ -5,9 +5,9 @@
     "/routes": "/router.json"
   },
   "css": {
-    "/style.css": "/style.css"
+    "/style": "/style.css"
   },
   "js": {
-    "/script.js": "/script.js"
+    "/script": "/script.js"
   }
 }
