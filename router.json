@@ -2,7 +2,8 @@
   "routes": {
     "/": "/index.html",
     "/about": "/about.html",
-    "/routes": "/router.json"
+    "/routes": "/router.json",
+    "/test": "test.txt"
   },
   "css": {
     "/style": "/style.css"
